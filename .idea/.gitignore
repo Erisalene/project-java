@@ -1,0 +1,4 @@
+echo "target/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "*.iml" >> .gitignore
+echo "*.dat" >> .gitignore
